@@ -24,6 +24,6 @@
 		<beans:property name="suffix" value=".jsp" />
 	</beans:bean>
 
-	<context:component-scan base-package="colony.spring.sample" />
+	<context:component-scan base-package="torque.spring.sample" />
 	
 </beans:beans>
