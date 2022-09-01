@@ -1,7 +1,7 @@
 <!DOCTYPE HTML>
 <html>
   <head>
-    <title>Java Spring Sample</title>
+    <title>TeeWreh Spring Sample</title>
 	<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
   </head>
 
