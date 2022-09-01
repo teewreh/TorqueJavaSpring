@@ -108,7 +108,7 @@ a:hover, a:active {
 <img src="img/background-logo.svg">
 
 <div class="center">     
-	<h1 class="custom" style="width:100%">Welcome Test</h1>
+	<h1 class="custom" style="width:100%">Welcome Test!!</h1>
 	<h2 class="custom2">This sample deploys a Java Spring application on a TomCat Server with a MySQL Database</h2>
 	<br>
 		<div>
